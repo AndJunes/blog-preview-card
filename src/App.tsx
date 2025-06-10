@@ -16,7 +16,7 @@ function App() {
           onMouseEnter={() => setIsHovered(true)}
           onMouseLeave={() => setIsHovered(false)}
           style={{ color: isHovered ? "hsl(47, 88%, 63%)" : "black", cursor: "pointer" }}
-          onClick={() => window.location.href = "https://tudestino.com"}
+          onClick={() => window.location.href = "https://www.linkedin.com/in/andrea-junes/"}
         >HTML & CSS foundations</h1>
          <p className="card-description">These languages are the backbone of every website, defining structure, content, and presentation.</p>
         <div className="author">
